@@ -6,7 +6,7 @@ import org.junit.Test;
 import java.util.List;
 
 public class AOCDay1Tests {
-    private List<String> challenge1TestData = List.of("3   4",
+    private final List<String> challenge1TestData = List.of("3   4",
             "4   3",
             "2   5",
             "1   3",
